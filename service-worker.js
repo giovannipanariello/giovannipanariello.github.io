@@ -2,6 +2,7 @@ const cacheName= "v1";
 
 // Gli asset che voglio tenere nella cache. Possono essere intere pagine o anche singoli file (JS, CSS,...)
 const cacheAssets= [
+    "/",
     "index.html",
     "about.html",
     "js/scripts.js",
