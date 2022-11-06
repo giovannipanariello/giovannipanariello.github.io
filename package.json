@@ -12,7 +12,7 @@
     "bootstrap-scss": "^4.3.1",
     "browser-sync": "^2.26.5",
     "compass-importer": "^0.4.1",
-    "gulp": "^3.9.0",
+    "gulp": "^4.0.2",
     "gulp-connect-php": "^1.0.3",
     "gulp-sass": "^4.0.2",
     "gulp-sourcemaps": "^2.6.5"
